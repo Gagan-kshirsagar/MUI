@@ -1,0 +1,49 @@
+{
+  "hash": "47f659bc",
+  "configHash": "ecd8a8c9",
+  "lockfileHash": "eaf4314c",
+  "browserHash": "60fe7041",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "8f0dab4a",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "843625f9",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "b9b0bd30",
+      "needsInterop": false
+    },
+    "react-just-parallax": {
+      "src": "../../node_modules/react-just-parallax/dist/esm/index.js",
+      "file": "react-just-parallax.js",
+      "fileHash": "f8bf7a7e",
+      "needsInterop": false
+    },
+    "scroll-lock": {
+      "src": "../../node_modules/scroll-lock/dist/scroll-lock.js",
+      "file": "scroll-lock.js",
+      "fileHash": "a23cc7bb",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-HCGKX5ED": {
+      "file": "chunk-HCGKX5ED.js"
+    },
+    "chunk-WNPTCGAH": {
+      "file": "chunk-WNPTCGAH.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}
